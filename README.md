@@ -1,4 +1,4 @@
-# Instacart Market Basket Analysis
+# Instacart Market Basket Analysis and Customer Segmentation
 
 ## About Instacart
 
